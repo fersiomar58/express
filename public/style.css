@@ -1,0 +1,81 @@
+body{
+    background-image: url("https://wallpaperbat.com/img/138086-white-background-wonderful-white-wallpaper.jpg");
+    width: 100%;
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: grey; */
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.contacts{
+    width: 500px;
+    margin-top: 5%;
+    margin-left: 400px;
+    margin-right: 600px;
+    padding: 30px 30px;
+    border:3px solid red;
+   border-radius: 25px; 
+   /* justify-content: center; */
+
+}
+h4{
+    font-size: 25px;
+    color: rgb(131, 121, 121);
+}
+h2{
+    font-size: 40px;
+    /* color: gray */
+}
+
+.servic{
+    margin-left: 600px;
+    margin-right: 600px;
+    border:3px solid black;
+    border-radius: 25px; 
+    padding: 50px 50px;
+    width: 500px;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+
+/* .pic:hover{
+    background-color:#887878;
+    padding:20px 20px 20px 20px  ;
+  
+} */
+.img{
+    width: 400px;
+}
+
+.container{
+  
+    display: flex;
+}
+
+
+
+.servic2{
+    margin-top: 500px;
+}
+
+
+.data{
+    width: 500px;
+    margin-top: 5%;
+    margin-left: 400px;
+    margin-right: 600px;
+    padding: 30px 30px;
+    border:3px solid red;
+   border-radius: 25px;
+}
+
+
+
+
+
+
